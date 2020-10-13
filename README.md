@@ -1,4 +1,4 @@
-# Neural-Networks-and-Learning-Systems-TBMI26
+# Neural Networks and Learning Systems TBMI26
 Course in machine learning. Uses matlab and python for excercies.
 Some files were provided for the lab, the implemented files are specificed for each lab.
 
