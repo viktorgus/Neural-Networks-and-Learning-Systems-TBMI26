@@ -1,0 +1,2 @@
+# Neural-Networks-and-Learning-Systems-TBMI26
+Course in machine learning. Including: Machine learning, classification, pattern recognition, kernel methods and high-dimensional data analysis. Supervised learning: neural networks, linear discriminants, support vector machines, ensemble learning, boosting, deep learning. Unsupervised learning: patterns in high-dimensional data, dimensionality reduction, clustering, principal component analysis. Reinforcement learning: TD-learning, Q-learning.
